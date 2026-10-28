@@ -15,21 +15,25 @@ We designed a multi-tier pipeline to identify **DGC-specific, tumor-traceable EV
 9. Mechanistic linkage (cell high-salt EV Analysis)
 
 ## Repository Structure
-
-│   ├── 00_config.R
-│   ├── 01_qc_plasma.R
-│   ├── 02_imputation_dreamai.R
-│   ├── 03_limma_plasma_DE.R
-│   ├── 04_subtype_filter_IGC.R
-│   ├── 05_tissue_traceability.R
-│   ├── 06_concordance_plasma_tissue.R
-│   ├── 07_prm_validation.R
-│   ├── 08_tcga_processing.R
-│   ├── 09_geo_acrg_survival.R
-│   ├── 10_prepost_surgery_limma.R
-│   ├── 11_network_string_cytoscape.R
-│   ├── 12_wgcna_diet_modules.R
-│   └── 13_ptm_mediation.R
+├── 001_setup.r
+├── 002_preprocess_matrix.r
+├── 003_qc_plots.r
+├── 004_EV Protein Identity.r
+├── 005_run_plasma_or_tissue.r
+├── 006_heatmap.r
+├── 007_GEO Survival Analysis.r
+├── 008_GO Analysis.r
+├── 009_TCGA Analysis.r
+├── 010_TMN-box plot Analysis.r
+├── 011_Mediation Analysis.r
+├── 012_Post-translational-modificati...
+├── 013_Sankey-Bubble plot.r
+├── 014_Classification Model.r
+├── 015_CellExperiment_Transwell An...
+├── 016_CellExperiment_Woundhealin...
+├── 017_CellExperiment-Omics Analys...
+├── 018_WesternBlot-Analysis.r
+└── README.md
 
 ## Requirements
 
