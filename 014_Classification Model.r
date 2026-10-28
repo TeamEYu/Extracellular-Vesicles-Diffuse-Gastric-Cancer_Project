@@ -1,6 +1,5 @@
 # ============================================================
 # Protein-based classification: cancer vs control
-# Data: 27 cancer (Group=1) + 120 control (Group=0), total n=147
 # Features: 4 core proteins (COL18A1, SERPINE2, CCT6A, GPNMB)
 # Workflow:
 #   1) Read and clean data (xlsx)
