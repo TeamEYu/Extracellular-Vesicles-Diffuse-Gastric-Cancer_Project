@@ -1,5 +1,5 @@
 # ============================================================
-# GO enrichment visualization (validation cohort)
+# 008_GO enrichment visualization (validation cohort)
 # - Input: Excel sheet containing GO terms, counts, p.adjust, ontology
 # - Output: Two-panel figure (lollipop + -log10(adj P) bars with term labels)
 # ============================================================
