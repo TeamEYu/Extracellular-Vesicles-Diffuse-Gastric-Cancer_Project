@@ -1,5 +1,5 @@
 # ============================================================
-# Full R script: per-protein HC vs DGC barplot + mean±SD
+# 018_Full R script: per-protein HC vs DGC barplot + mean±SD
 # Welch t-test; stars: *** <0.001, ** <0.01, * <0.05
 # Colors: same hue (light vs dark); brackets per protein pair
 # ============================================================
