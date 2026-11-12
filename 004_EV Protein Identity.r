@@ -26,7 +26,7 @@ library(gridExtra)
 # -----------------------------
 # 1) Plasma data: import + cleaning
 # -----------------------------
-setwd("D:/MAS胃癌项目/DGC_DEP_LW/v8/")
+setwd("***************************")
 
 plasma_raw <- read_excel("Plasma_data_origin.xlsx", sheet = 1) %>% as.data.frame()
 rownames(plasma_raw) <- plasma_raw[[1]]
