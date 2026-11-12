@@ -1,5 +1,5 @@
 # ============================================================
-# Mediation analysis (three-step approach) with Firth logistic
+# 011_Mediation analysis (three-step approach) with Firth logistic
 # regression and bootstrap inference for the indirect effect
 # Dataset: plasma significant PTM mediation data
 # ============================================================
