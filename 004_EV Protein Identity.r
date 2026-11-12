@@ -1,5 +1,5 @@
 # ============================================================
-# Proteomics QC Summary: Number of Detected Proteins per Sample
+# 004_Proteomics QC Summary: Number of Detected Proteins per Sample
 # 1) Plasma proteomics: HC / Pre / HP / Post
 # 2) Tissue proteomics: DNT / HPT(PT) / GCT
 # Outputs:
