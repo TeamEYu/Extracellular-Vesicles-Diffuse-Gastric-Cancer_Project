@@ -1,5 +1,5 @@
 # ============================================================
-# Protein expression heatmap (row-wise z-score) with pheatmap
+# 006_Protein expression heatmap (row-wise z-score) with pheatmap
 # ============================================================
 
 suppressPackageStartupMessages({
