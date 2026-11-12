@@ -1,5 +1,5 @@
 # ============================================================
-# Differential expression analysis (DGC vs HC) using limma
+# 009_Differential expression analysis (DGC vs HC) using limma
 # - Input: TCGA_validate_data.xlsx (sheet 1), first column = feature/protein IDs
 # - Steps:
 #   1) Read and clean data; convert all expression columns to numeric
