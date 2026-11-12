@@ -2,7 +2,7 @@
 
 ## Study Overview
 
-We designed a multi-tier pipeline to identify **DGC-specific, tumor-traceable EV biomarkers** with improved specificity by:
+We designed a multi-tier pipeline to identify **DGC-associated, tumor-traceable EV biomarkers** with improved specificity by:
 
 1. Discovery in plasma EVs (DGC vs HC; DGC vs HP; intersection)
 2. Benign-stability check (HP vs HC)
@@ -41,8 +41,8 @@ We designed a multi-tier pipeline to identify **DGC-specific, tumor-traceable EV
 - R >= 4.3.1
 - Recommended packages:
   - `tidyverse`, `data.table`
-  - `limma`, `edgeR` (if needed)
-  - `DreamAI` (imputation)
+  - `limma`, `edgeR`
+  - `DreamAI`
   - `pROC`
   - `survival`, `survminer`
   - `WGCNA`
@@ -50,7 +50,7 @@ We designed a multi-tier pipeline to identify **DGC-specific, tumor-traceable EV
   - `rtracklayer`
   - `ComplexHeatmap` or `pheatmap`
 
-### External software / web tools
+### External software/web tools
 - Spectronaut (directDIA / PTM workflows)
 - Skyline (PRM curation)
 - Cytoscape + cytoHubba
