@@ -7,7 +7,7 @@
 # -----------------------------
 # 0) Working directory & packages
 # -----------------------------
-setwd("D:/MAS_gastric_cancer_project/DGC_DEP_LW/v8/validation_samples")
+setwd("*************************")
 
 suppressPackageStartupMessages({
   library(readxl)
