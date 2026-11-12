@@ -1,5 +1,5 @@
 # ============================================================
-# TNM stage–stratified expression analysis (ACRG / GSE62254)
+# 010_TNM stage–stratified expression analysis (ACRG / GSE62254)
 # - Input: TMNstage_data.xlsx
 #   * One column named "Stage" (I/II/III/IV)
 #   * Remaining columns are proteins (expression values)
@@ -7,7 +7,7 @@
 #           adjacent-stage Wilcoxon rank-sum comparisons
 # ============================================================
 
-setwd("D:/MAS_GastricCancer_Project/DGC_DEP_LW/v8/Public_Datasets/ACRG_Cohort_GSE62254")
+setwd("******************************************************4")
 
 # -----------------------------
 # 0) Packages
