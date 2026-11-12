@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# 018_Differential Protein Analysis Pipeline
+# 017_Differential Protein Analysis Pipeline
 # Robust two-group comparison: High-salt vs Non-high-salt
 # - Option A: Wilcoxon rank-sum test (nonparametric, robust)
 # - Option B: Welch's t-test (parametric, unequal variance)
