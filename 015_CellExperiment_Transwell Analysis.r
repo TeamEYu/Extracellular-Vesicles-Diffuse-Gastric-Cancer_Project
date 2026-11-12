@@ -1,5 +1,5 @@
 # ============================================================
-# Transwell invasion assay (Table S2): Bar plot with SD and
+# 015_Transwell invasion assay (Table S2): Bar plot with SD and
 # significance annotations (NC vs NaCl) across four cell lines
 # Output: Transwell_4CellLines_Wider.pdf
 # ============================================================
