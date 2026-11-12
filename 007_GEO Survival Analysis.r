@@ -1,5 +1,5 @@
 # ============================================================
-# ACRG (GSE62254) diffuse-type only: candidate genes survival
+# 007_ACRG (GSE62254) diffuse-type only: candidate genes survival
 # Pipeline:
 #   1) Load expression matrix (gene x samples)
 #   2) Keep diffuse-type samples only (remove columns containing "non-diffuse")
