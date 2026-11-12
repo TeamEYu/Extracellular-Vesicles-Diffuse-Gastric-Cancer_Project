@@ -1,5 +1,5 @@
 # ============================================================
-# 02_qc_plots.R — QC visualizations
+# 003_qc_plots.R — QC visualizations
 # ============================================================
 
 plot_boxplots <- function(before_mat, after_mat, out_pdf) {
