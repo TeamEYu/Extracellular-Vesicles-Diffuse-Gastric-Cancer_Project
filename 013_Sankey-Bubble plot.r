@@ -1,5 +1,5 @@
 # ============================================================
-# Integrated Sankey + Dotplot visualization (Metascape/KEGG-like)
+# 013_Integrated Sankey + Dotplot visualization (Metascape/KEGG-like)
 # - Input: one Excel file containing pathway table (sheet 5) and gene logFC table (sheet 6)
 # - Output: a custom-layout PDF combining:
 #     (1) Sankey diagram: Pathway -> Gene, gene nodes colored by logFC
@@ -11,7 +11,7 @@ rm(list = ls())
 # -----------------------------
 # 0) Environment setup
 # -----------------------------
-setwd("D:/MAS_GastricCancer_Project/DGC_DEP_LW/v8/Public_Datasets/ACRG_Cohort_GSE62254")
+setwd("********************************************************")
 
 # -----------------------------
 # 1) Load required packages
