@@ -1,5 +1,5 @@
 # ============================================================
-# 00_setup.R — Global setup (packages, reproducibility)
+# 001_setup.R — Global setup (packages, reproducibility)
 # ============================================================
 
 suppressPackageStartupMessages({
