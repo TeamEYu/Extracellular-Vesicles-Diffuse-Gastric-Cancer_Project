@@ -29,7 +29,7 @@ suppressPackageStartupMessages({
 # -----------------------------
 # 0) Working directory & inputs
 # -----------------------------
-setwd("D:/MAS_gastric_cancer_project/DGC_DEP_LW/v8/public_datasets/ACRG_GSE62254")
+setwd("***********************")
 
 expr_file      <- "GSE62254_series_matrix_expression.xlsx"
 candidate_file <- "KM_candidate_gene_list.xlsx"
