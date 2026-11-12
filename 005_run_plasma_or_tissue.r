@@ -2,9 +2,9 @@
 # 005_run_plasma_or_tissue.R — End-to-end run (example template)
 # ============================================================
 
-source("00_setup.R")
-source("01_preprocess_matrix.R")
-source("02_qc_plots.R")
+source("001_setup.R")
+source("002_preprocess_matrix.R")
+source("003_qc_plots.R")
 
 # -----------------------------
 # A) Load matrix
