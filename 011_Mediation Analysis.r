@@ -10,7 +10,7 @@
 rm(list = ls())
 
 # Set working directory (edit as needed)
-setwd("D:/MAS_GastricCancer_Project/Company_Results/Protein_Modifications")
+setwd("*********************************")
 
 # -----------------------------
 # 1) Load required packages
